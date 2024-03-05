@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="home.css">
+<title>Page Title</title>
+</head>
+<body>
+  
+  
+    <nav class="top-bar-right">
+        <ul>
+            <li><a href="#"> Golden Paws Cheerleader ev Karlsruhe</a></li>
+            <li><a href="ueberUns.html">Über uns</a></li>
+            <li><a href="Kontakt.html">Kontakt </a></li>
+        </ul>
+    </nav>
+    
+
+<div>
+<p>
+<h1>Willkommen </h1>
+<h2> auf der Website der Golden Paws Cheerleader Karlsruhe </h2>
+</p>
+
+<div class="nutte">
+<img src="logo_ohne_hintergrund.png " alt="Logo" class="fuckyou" >
+
+</div>
+
+
+
+
+
+</body>
+</html>
