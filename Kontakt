@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="home.css">
+<title>Page Title</title>
+</head>
+<body>
+
+<nav class="top-bar-right">
+    <ul>
+        <li><a href="Homepage.html"> Golden Paws Cheerleader ev Karlsruhe</a></li>
+        <li><a href="ueberUns.html">Über uns</a></li>
+        <li><a href="#">Kontakt </a></li>
+    </ul> 
+</nav>
+
+
+
+<h1>Kontakt  </h1>
+<p> Haben Sie fragen , möchten uns buchen oder sind an einem Probetraining Interessiert ? dann melden Sie sich gerne unter unserer Email adresse info@golden-paws.de 
+    oder schreiben Sie uns eine kurze Nachicht über Instagram @golden_paws_Cheerleader
+
+    Wir beantworten Ihre Anfragen so schnell wie möglich. 
+</p>
+<img src="img_girl.jpg" alt="Girl in a jacket">
+
+
+<div class= "container" >
+    <p> Hier sehen Sie eine liste unserer kommenen Auftritte </p>
+<table class="Auftritte">
+    <tr>
+      <th width=25%>Was</th>
+      <th width=25%>Wann</th>
+      <th width=25%>Wo </th>
+    </tr>
+    <tr>
+      <td>Basketball KIT Wizards</td>
+      <td>20.01.2024 19:30</td>
+      <td> KIT Sporthalle </td>
+    </tr>
+    <tr>
+      <td>Basketball KIT Wizards </td>
+      <td> 27.02.2024 19:30</td>
+      <td> KIT Sporthalle </td>
+    </tr>
+    <tr>
+        <td>Regionalmeisterschaft Süd</td>
+        <td>10.02.2024 ab 10:00</td>
+        <td> Göppingen </td>
+      </tr>
+    <tr>
+        <td>Basketball KIT Wizards</td>
+        <td>10.02.2024 19:30</td>
+        <td> KIT Sporthalle </td>
+      </tr>
+      <tr>
+        <td>Basketball KIT Wizards</td>
+        <td>24.02.2024 19:30</td>
+        <td> KIT Sporthalle </td>
+      </tr>
+      <tr>
+        <td>Basketball KIT Wizards</td>
+        <td>09.03.2024 19:30</td>
+        <td> KIT Sporthalle </td>
+      </tr>
+      <tr>
+        <td>Basketball KIT Wizards</td>
+        <td>06.04.2024 19:30</td>
+        <td> KIT Sporthalle </td>
+      </tr>
+      <tr>
+        <td>German Cheermasters</td>
+        <td>13.04.2024 19:30</td>
+        <td> Olympiastützpunkt Heidelberg </td>
+      </tr>
+      <tr>
+        <td>Basketball KIT Wizards</td>
+        <td>20.04.2024 19:30</td>
+        <td> KIT Sporthalle </td>
+      </tr>
+  </table>
+</div>
+
+
+</body>
+</html>
