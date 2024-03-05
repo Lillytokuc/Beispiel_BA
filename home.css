@@ -1,0 +1,74 @@
+body {
+    background-color: rgba(3, 3, 3, 0.774);
+    margin: 0px;
+    position: relative;
+}
+  
+h1 {
+    color: rgb(238, 238, 238);
+    text-align: center;
+}
+h2 {
+    color: rgb(240, 237, 237);
+    text-align: center;
+}
+  
+p{ 
+    color: rgb(230, 223, 223) !important;
+    text-align: left;
+    padding: 5%;
+}
+
+.top-bar-right ul{ 
+
+    list-style-type: none;
+    background-color: rgb(186,152,78);
+    padding: 15px;
+    margin: 0px;
+    overflow: hidden;
+   
+}
+
+.top-bar-right a{ 
+
+    color: black;
+    text-decoration: none;
+    padding: 0px;
+    margin: 10px;
+    display: block;
+    text-align: left;
+}
+
+.top-bar-right a:hover{ 
+
+    background-color:  rgba(230, 185, 87, 0.76);
+}
+
+.top-bar-right li{
+    float: left !important;
+}
+
+.fuckyou{
+    width:150px;
+    height: 160px;
+    display: block;
+    margin: 0 auto;
+}
+.nutte{
+    background-color: rgb(0, 0, 0);
+    border-left-width: 10cqmax;
+    border-right-width: 0vmin;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.Auftritte td,th,table{ 
+
+    border-collapse: collapse;
+    border: 1px solid white;
+    color: rgb(230, 223, 223);
+    height: 20%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
