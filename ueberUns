@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="home.css">
+<title>Page Title</title>
+</head>
+<body>
+
+<nav class="top-bar-right">
+    <ul>
+        <li><a href="Homepage.html"> Golden Paws Cheerleader ev Karlsruhe</a></li>
+        <li><a href="#">Über uns</a></li>
+        <li><a href="Kontakt.html">Kontakt </a></li>
+    </ul> 
+</nav>
+
+
+
+<h1>Über Uns </h1>
+<p> Haben Sie fragen , möchten uns buchen oder sind an einem Probetraining Interessiert ? dann melden Sie sich gerne unter unserer Email adresse info@golden-paws.de 
+    oder schreiben Sie uns eine kurze Nachicht über Instagram @golden_paws_Cheerleader
+
+    Wir beantworten Ihre Anfragen so schnell wie möglich. 
+</p>
+
+
+</body>
+</html>
